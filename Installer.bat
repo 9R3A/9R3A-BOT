@@ -2,6 +2,10 @@
 
 cd
 
+Title Downloading Requirements...
+
+echo Downloading.....
+
 call npm install
 
 call npm install discord.js

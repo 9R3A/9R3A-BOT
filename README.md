@@ -3,9 +3,7 @@
 Line Bot Is A Bot For Auto Sent Any Message You Type Using !custom-m
 
 -------------------------------------------------------------------
-> Bot Commands
-
-Here is a list of all available commands:
+``Bot Commands Here is a list of all available commands:``
 
 > !custom-m <message>
 

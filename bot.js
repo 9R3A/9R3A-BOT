@@ -65,7 +65,7 @@ Github :https://github.com/9R3A
                         .setColor(0x0099ff)
                         .setTitle('System Metrics')
                         .setDescription(`📊 **System Metrics**\nCPU Usage: ${cpuPercent}%\nRAM Usage: ${ramPercent}%`)
-                        .setFooter({ text: 'Use /command to call commands like !metrics-c or get help.' });
+                        .setFooter({ text: 'Use !help to call commands like !metrics-c or get help.' });
 
                     await channel.send({ embeds: [metricsEmbed] });
                 }
@@ -124,7 +124,7 @@ client.on('messageCreate', async (message) => {
                 { name: '> !wlc-remove', value: '``Remove a channel from the whitelist.``' },
                 { name: '> !help', value: '``Shows a list of all available commands.``' }
             )
-            .setFooter({ text: 'MADE BY 9R3A_ THE SRC SELLED' });
+            .setFooter({ text: 'Made By 9R3A ' });
 
         message.channel.send({ embeds: [helpEmbed] });
     }

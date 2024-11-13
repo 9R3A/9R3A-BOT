@@ -33,3 +33,7 @@
 > !help
 
 ``Shows a list of all available commands.``
+
+-------------------------------------------------------------------
+- At What Can I Use It
+``You Can Use It To Make Auto Line For You Example: ``

@@ -3,7 +3,7 @@
 ``Line Bot Is A Bot For Auto Sent Any Message You Type Using !custom-m <YOUR_CHANNEL_ID>``
 
 
-![line-bot-example](https://imgur.com/a/XXiYeu4)
+![alttext](https://imgur.com/a/XXiYeu4)
 
 -------------------------------------------------------------------
 - Bot Commands Here is a list of all available commands:

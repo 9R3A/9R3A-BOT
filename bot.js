@@ -27,7 +27,7 @@ client.once('ready', async () => {
                
 
 Made By 9R3A OWNER OF 9R3A HUB ( 9H )
-Telegram : EK_ZAR
+Telegram : https://t.me/R3A_HUB
 Discord Server : https://discord.gg/ZDe7vEHYJJ
 Github :https://github.com/9R3A
 `;

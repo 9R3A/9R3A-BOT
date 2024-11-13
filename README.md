@@ -1,4 +1,4 @@
-- What IS Line Boot
+- What Is Line Bot
 
 ``Line Bot Is A Bot For Auto Sent Any Message You Type Using !custom-m <YOUR_CHANNEL_ID>``
 

@@ -1,9 +1,13 @@
 - What Is Line Bot
 
-``Line Bot Is A Bot For Auto Sent Any Message You Type Using !custom-m <YOUR_CHANNEL_ID>``
+``Line Bot Is A Bot For Auto Sent Line You Type Using !custom-m <YOUR_CHANNEL_ID>``
+
++ EXAMPLE
 
 
 ![example](https://i.imgur.com/6tOhr53.gif)
+
+You Can Get Lines From [here](https://auto.creavite.co/)
 
 -------------------------------------------------------------------
 - Bot Commands Here is a list of all available commands:

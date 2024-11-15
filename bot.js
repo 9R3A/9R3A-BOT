@@ -82,8 +82,8 @@ Github :https://github.com/9R3A
 client.on('messageCreate', async (message) => {
     if (message.author.bot) return;
 
-    if (message.content.startsWith('!custom-m')) {
-        customMessage = message.content.replace('!custom-m', '').trim();
+    if (message.content.startsWith('!line-set')) {
+        customMessage = message.content.replace('!line-set', '').trim();
         config.customMessage = customMessage;
         message.channel.send(`Custom message set to: "${customMessage}"`);
 
@@ -116,7 +116,7 @@ client.on('messageCreate', async (message) => {
             .setTitle('Bot Commands')
             .setDescription('Here is a list of all available commands:')
             .addFields(
-                { name: '> !custom-m', value: '``Set a custom message for the bot to send in specific channels.``' },
+                { name: '> !line-set', value: '``Set a custom message for the bot to send in specific channels.``' },
                 { name: '> !usage', value: '``Displays the current system metrics (CPU and RAM usage).``' },
                 { name: '> !status-channel-set', value: '``Set the channel ID where system metrics are sent.``' },
                 { name: '> !status-channel-remove', value: '``Remove the channel ID where system metrics are sent.``' },

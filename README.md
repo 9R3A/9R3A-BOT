@@ -21,11 +21,11 @@ You Can Get Lines From [here](https://auto.creavite.co/)
 ``Displays the current system metrics (CPU and RAM usage).``
 
 
-> !status-channel-set <id>
+> !usage-channel-set <id>
 
 ``Set the channel ID where system metrics are sent.``
 
-> !status-channel-remove <id>
+> !usage-channel-remove <id>
 
 ``Remove the channel ID where system metrics are sent.``
 

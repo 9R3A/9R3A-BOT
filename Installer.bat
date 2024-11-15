@@ -14,6 +14,8 @@ call npm install systeminformation
 
 call npm install dotenv
 
+call npm install discord.js/voice
+
 color 2
 
 echo install is done

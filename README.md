@@ -50,9 +50,9 @@ You Can Get Lines From [here](https://auto.creavite.co/)
 
 
 -------------------------------------------------------------------
-- ScreenShots
+![Preview-From-PC](https://i.imgur.com/sC8oTKV.png)
 
-![alt text](https://github.com/9R3A/9R3A-LINE-BOT-SRC/blob/main/image.png)
+![Preview-From-Server](https://i.imgur.com/xiWIaRn.jpeg)
 
 
 
